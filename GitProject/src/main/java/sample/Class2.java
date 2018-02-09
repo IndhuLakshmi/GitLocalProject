@@ -6,6 +6,7 @@ public class Class2 {
 		// TODO Auto-generated method stub
 		System.out.println("hai2");
 		System.out.println("hai22");
+		System.out.println("hai33");
 	}
 
 }
