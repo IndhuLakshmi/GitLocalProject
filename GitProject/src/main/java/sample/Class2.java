@@ -8,7 +8,10 @@ public class Class2 {
 		System.out.println("hai22");
 		System.out.println("hai33");
 		System.out.println("hai444");
-		
+		System.out.println("hai2");
+		System.out.println("hai22");
+		System.out.println("hai33");
+		System.out.println("hai444");
 	}
 
 }
